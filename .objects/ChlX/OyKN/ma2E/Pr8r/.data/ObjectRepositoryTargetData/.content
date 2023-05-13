@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="V8NOJ_FyhEKtNt2BR5uPIQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="264, 8, 36, 35" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Новая вкладка'" FullSelectorArgument="&lt;ctrl name='Новая вкладка - Google Chrome' role='pane' /&gt;&lt;ctrl name='Новая вкладка' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Новая вкладка - Google Chrome' role='pane' /&gt;&lt;ctrl name='Новая вкладка' role='push button' automationid='' check:text='Новая вкладка' /&gt;" Guid="51dcce2a-5bda-4b2f-bf8a-c9f529652863" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACgAAAAnCAYAAAB9qAq4AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAElSURBVFhH7ZRtCsIwDEB3lIkf4AH0x+4Pm6eqTSGa1bRr0hSrLPAQUm3eksVhj9pwnccwHk6uZ/5McASO789XnuRo3oAyQWlhQ9G8YG0hA9G0YDxGLUGSyRfCC1ZcmER556egwVhYlPfygnHOimrBlnKIsEbUQdmPl+Xh5nlhz5KoBRUvMQZ3lkUgSQTl48XgzrLoBNcHJWBwZ1kEtcg72HsHN4CFKA3x4mRoIgjf5e7Q8EMj7n5J9r8Zgn6LZV2EZZAvhKzGWlAxZjHCGlEHPS0lFXcnBFtI+jtNBAHFwmyinAwvCARJi05C57h8GWlBAJ5a+eSB2t978oJIKCIpVC+GlAki2BEYGRWgOZo3QCb4BfoXPF+u7EEvDLf75HpmF6xjck8Va/zfTrLkDQAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Новая вкладка - Google Chrome' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset Position="BottomLeft" X="16" Y="-17" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="e93755ff083f21abe94ab208d79646ef.png" xmlns="">0WPJSEf3yu0WvrqY0uYztxQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

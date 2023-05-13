@@ -1,0 +1,17 @@
+﻿{
+  "Id": "J8gZ-QokvEibOK6chZso_w",
+  "Reference": "chxUPnXRzE6vhBfR7kq9Dw/J8gZ-QokvEibOK6chZso_w",
+  "ParentRef": "chxUPnXRzE6vhBfR7kq9Dw/UYddN8G4Sk2h-5nukXgFiQ",
+  "Name": "NewLoginTab",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-13T07:31:36.5777794Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-13T07:31:36.5777794Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

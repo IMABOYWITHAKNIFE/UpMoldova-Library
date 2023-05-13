@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="iVC7LfsAn0G-s3R3o2ESZA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="228, 8, 36, 35" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Закрыть'" FullSelectorArgument="&lt;ctrl name='Новая вкладка - Google Chrome' role='pane' /&gt;&lt;ctrl name='Новая вкладка' role='page tab' /&gt;&lt;ctrl name='Закрыть' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Новая вкладка - Google Chrome' role='pane' /&gt;&lt;ctrl name='Новая вкладка' role='page tab' /&gt;&lt;ctrl name='Закрыть' role='push button' automationid='' check:text='Закрыть' /&gt;" Guid="83a8d384-1ffd-4fe5-9e0e-abbe7a539a5a" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACgAAAAnCAYAAAB9qAq4AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHFSURBVFhH7ZjbagIxFEX9FEXHy2jrtGoL0j70rYUKFrS0Hyp9VH/HfkTqtgTiyZ6ZI0oyDwYWCbnN4uQyo7VrOjeZiqfa5GFqQpAOhqbeaJ1MMEGQ3U2oRBFBBUHaPy2SwQVBM+lQGUYUwcFNRmUYUQSH2ZjKMKIIjsaPVIYRRRAwGYZa8On5xby+zcz8Y2EWy68DKKMObWxMEUyGoRKExPLzuxD0YWPzYDIe9Wa54PtsToUY6MvmYFAhjxJBTeQk2khyIYf6f54riH3lPni3+zXr9faoDmw2233b7qhOsyc9Icl+eZHnCsrorVY/h68LVxJySGhz+2qi6AlJyiKIE+o+FFghSNoyctkPY9mcLp6QR0kEcY3IBwMrhsTkAMayOV18Ic5ZgmxPgiCCRUuM3JaZZJAlzjsk7rJaySiHhF0zrpwFdWhz64JcM0BGUYMmesATkpRF0FLpV51FE0lt5CxcSKD5WLBgX0ECJxTXCEAZdZo9J6FCBLXgpWEyjGiCjWabCkmiCSadlApJogn2+rdUSBJN8H6k+2UXTRBo/lCKKghaSZeKWaILgl6avx8rIQiybGK66cAk7V41BfO4Cp7H1PwB/ccPd/loX9oAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Новая вкладка - Google Chrome' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset Position="TopLeft" X="11" Y="16" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="eb741965cf76b088b99a6c12c2b40af3.png" xmlns="">0RHS5CThBiUmxHZo_a4-2ug</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

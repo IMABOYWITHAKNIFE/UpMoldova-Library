@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tt-yyHOD1Eeq6iuNCtAaJw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="150, 48, 1506, 24" DesignTimeScaleFactor="1" ElementType="InputBox" FriendlyName="'Адресная строка'" FullSelectorArgument="&lt;ctrl name='Новая вкладка - Google Chrome' role='pane' /&gt;&lt;ctrl name='Адресная строка и строка поиска' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Новая вкладка - Google Chrome' role='pane' /&gt;&lt;ctrl name='Адресная строка и строка поиска' role='editable text' automationid='' /&gt;" Guid="2d7e0431-e4ef-4f51-b89e-c01512825e49" ImageBase64="iVBORw0KGgoAAAANSUhEUgAABeYAAAAcCAYAAAAENG+GAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE7SURBVHhe7dxBCsMgFEXR7CQWu9qsJ4tzZglJbWiGTd/oCAeF7wou4rSsrQMAAAAAABlTeTw7AAAAAACQMcL8vO2lXi4AAAAAAAA/KHVv8IcR5rf1PgMAAAAAADc6PYwX5gEAAAAAIEiYBwAAAACAIGEeAAAAAACChHkAAAAAAAgS5gEAAAAAIEiYBwAAAACAIGEeAAAAAACChHkAAAAAAAgS5gEAAAAAIEiYBwAAAACAIGEeAAAAAACChHkAAAAAAAgS5gEAAAAAIEiYBwAAAACAIGEeAAAAAACChHkAAAAAAAgS5gEAAAAAIEiYBwAAAACAoBHmAQAAAACA/xPmAQAAAAAg6BPmS70MAQAAAACAG5wa/Ajz89cAAAAAAAC4Qal7gz/4ygYAAAAAAIKmZW0dAAAAAABIaP0FLJ5ZGNWqlogAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Новая вкладка - Google Chrome' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="372dac153ed4f60c53696b3df9308f5d.png" xmlns="">0Q79Ob6SilEW3ji6fu5giAw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

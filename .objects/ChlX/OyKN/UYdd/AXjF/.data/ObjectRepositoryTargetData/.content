@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FL3UncxBxUS7PWknzQ2RJw" Reference="QfAqd2GwdkOoqfWMbBLIJA/3lObaFtWVU2xhViI89ISkQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://contulmeu.upmoldova.md/cd.login.jsf" DesignTimeRectangle="538, 255, 214, 26" DesignTimeScaleFactor="1" ElementType="InputBoxPassword" FriendlyName="'INPUT mainForm:login_pa…'" FullSelectorArgument="&lt;webctrl parentid='mainForm' tag='TABLE' /&gt;&lt;webctrl id='mainForm:login_password' tableRow='2' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='mainForm' tag='TABLE' /&gt;&lt;webctrl id='mainForm:login_password' type='password' tag='INPUT' class='field-login' aaname='' /&gt;" Guid="c92768e4-1256-478a-8bd1-92a5795543fa" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAANoAAAAeCAYAAABKZAB5AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACASURBVHhe7dOxEYAgAMBA99+TlhWws1E7SPV/lxFyzTmXpLMZTQp6RhtjSNrc52jAPkaDgNEgYDQIGA0CRoOA0SBgNAgYDQJGg4DRIGA0CBgNAkaDgNEgYDQIGA0CRoOA0SBgNAgYDQJGg4DRIGA0CPyOJmlvr9Ekncto0vHmugF4zHw1/HxetAAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Contul meu Up Moldova' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="476, 253, 58, 34" ElementType="Text" FriendlyName="'Parola'" FullSelectorArgument="&lt;webctrl parentid='mainForm' tag='TABLE' /&gt;&lt;webctrl tableRow='2' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='mainForm' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' class='' aaname='Parola:' check:innerText='Parola:' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAD4AAAAmCAYAAACcRCiyAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEkSURBVGhD7ZTLDcMgDEBZEGWeiE2SScgcOTAFK7gkgGp+bdSifGQf3gUM4vmDsNYCRVicGixODRanBotTg8WpweLUYPEemFmCEKJALfX4v1gnkELCtFb2DtBffJjA4PVFOfnfH9jk9uLWwDQIkLNBax14nPj+YDQKo07i1Lh1CFpP4pFoLr53VozDiQ73ZuN2cqtnj0ge7/fS8xqUk4jx/g9RoIuzW1yehBDX4NrPrZKUZCQKAZSIvOKIJEENTmj1FD2ipAyyqDgWL+9riYduCfdKd++9xPMqVR7/U8XzuEta/av4u/V99T+IH53xysjcS9yBW10tWKwm7gjJ8meiXFzPZUPMUu7F5EW6ij8JFqcGi1ODxanB4tRgcWqwODWIilt4Aao6sn3Hf5rjAAAAAElFTkSuQmCC" SearchSteps="FuzzySelector, Image" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="84760def54e93862b2ae20a94201b7cb.png" xmlns="">0Kgp0ENEeH0WFuL0i1tjEzg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

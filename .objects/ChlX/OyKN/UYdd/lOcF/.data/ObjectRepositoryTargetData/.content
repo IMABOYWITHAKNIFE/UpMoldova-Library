@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="f226wRnzxkuPhtX2UcjZhg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://contulmeu.upmoldova.md/cd.login.jsf" DesignTimeRectangle="683, 295, 62, 30" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'login'" FullSelectorArgument="&lt;webctrl idx='2' parentid='mainForm' tag='TABLE' /&gt;&lt;webctrl id='mainForm:loginclientaffiliate' tableRow='1' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='mainForm' tag='TABLE' /&gt;&lt;webctrl id='mainForm:loginclientaffiliate' type='submit' tag='INPUT' class='login-submit' aaname='login' check:text='login' /&gt;" Guid="ba4f95aa-aef5-4fe2-9da7-784eedf8de18" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAEIAAAAiCAYAAADroA+yAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE2SURBVGhD7ZQ9DoJAEEa9jNfwelzAU3gAO2s6LyANBe0mBDqLkV0+YHcZxEQNiN8kL4HZYZl5/OyMMUKMUAToRVwO+7+EIgBFAIoAFAEoAlAEoAhAEYAiwEdEFLmI5Cd1zXHOmoIh7tdEqUvEVChA+HW3aznc45jKPVq32D70vef5ugg3gGRS9DkMHNSfpG5SWq4+t+eaiHDfVYuww5Rijs/zbsgqlVtQEw4/FpFJHd13vSLsJ6EM2L0VbdP+cVw3oIkoIqE/KMJvuhXRfQLdWh+4XhcRvk2bEKEO4F0/JcIXuV4Rb/4jXhOBOvwzVioCA/hN4wmG9VbMRO4VEQ2uhyaWFxGHP5R7YkNMNRvv49fNiejELSpiC1AEoAhAEYAiAEUAigAUASgCUASgCDAS8e9QhMPIAwb2FpK1QsVZAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Contul meu Up Moldova' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ee19aa7511655e09baca44ef9554b8b7.png" xmlns="">0NhWwutqvuU2uJMgfwF23bw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
